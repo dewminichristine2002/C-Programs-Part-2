@@ -1,0 +1,7 @@
+﻿  ooc june 2023.cpp
+C:\Users\HP\source\repos\ooc june 2023\ooc june 2023\ooc june 2023.cpp(12,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\source\repos\ooc june 2023\ooc june 2023\ooc june 2023.cpp(25,10): error C2259: 'Animal': cannot instantiate abstract class
+C:\Users\HP\source\repos\ooc june 2023\ooc june 2023\ooc june 2023.cpp(4,7): message : see declaration of 'Animal'
+C:\Users\HP\source\repos\ooc june 2023\ooc june 2023\ooc june 2023.cpp(25,10): message : due to following members:
+C:\Users\HP\source\repos\ooc june 2023\ooc june 2023\ooc june 2023.cpp(25,10): message : 'void Animal::speak(void)': is abstract
+C:\Users\HP\source\repos\ooc june 2023\ooc june 2023\ooc june 2023.cpp(14,15): message : see declaration of 'Animal::speak'
